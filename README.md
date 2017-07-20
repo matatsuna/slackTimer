@@ -1,0 +1,2 @@
+# slackTimer
+カウントダウン式タイマーのslackボット
